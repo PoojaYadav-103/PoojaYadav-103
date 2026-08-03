@@ -252,15 +252,15 @@ for real-world prediction problems.
 
 <p align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=PoojaYadav-103&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=PoojaYadav-103&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <br><br>
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaYadav-103&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PoojaYadav-103&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaYadav-103&theme=tokyo-night&hide_border=true"/>
 
 <br><br>
 
