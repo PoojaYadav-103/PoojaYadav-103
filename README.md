@@ -134,8 +134,6 @@ FastAPI
 <br>
 REST APIs
 <br>
-MongoDB
-<br>
 PostgreSQL
 <br>
 Docker
