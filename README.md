@@ -1,62 +1,296 @@
-<p align="center">
-  <img src="https://github.com/PoojaYadav-103.png" width="140" alt="Pooja's avatar"/>
-</p>
+<h1 align="center">👋 Hey, I'm Pooja Yadav</h1>
 
-<h1 align="center">Full Stack Developer</h1>
-
-<p align="center">
-  <!-- Tech icons -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+<h3 align="center">
+IT Student • AI Builder • Software Enthusiast
+</h3>
 
 <p align="center">
-  <!-- Visitor counter -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PoojaYadav-103.PoojaYadav-103" alt="visitors" />
+Technology never fails to surprise me.
+<br><br>
+Every breakthrough leaves me wondering,
+<br>
+<b>"How does this work?"</b>
+<br><br>
+That curiosity is what drives me to build,
+<br>
+learn, and explore the future of AI.
 </p>
 
+<br>
+
 <p align="center">
-  <!-- Social buttons (replace the URLs with your real handles) -->
-  <a href="https://dev.to/yourhandle"><img src="https://img.shields.io/badge/DEV.TO-000000?style=flat&logo=dev.to&logoColor=white" alt="dev.to"/></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pooja.leetcoder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://discord.gg/yourhandle"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://peerlist.io/yourhandle"><img src="https://img.shields.io/badge/Peerlist-000000?style=flat" alt="Peerlist"/></a>
+<a href="mailto:poojayadav265490@gmail.com">
+<img src="https://img.shields.io/badge/Email-Open%20to%20Collaborations-purple?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/pooja-yadav-219bb5337">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://leetcode.com/u/Pooja54321">
+<img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201981-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="https://codeforces.com/profile/pooja.leetcoder">
+<img src="https://img.shields.io/badge/Codeforces-200%2B%20Problems-blue?style=for-the-badge&logo=codeforces">
+</a>
 </p>
+
 
 ---
 
-### Hello — I'm Pooja 👋
+## ✨ Things That Describe Me
 
-Building products with open source. I enjoy turning ideas into reality using web technologies, mentoring others, and learning new tools.
+☕ Running on curiosity (and sometimes chai :))
 
-- 🔭 Currently: building small projects with React and Node.js
-- 🌱 Learning: advanced JavaScript patterns, CI/CD and GitHub Actions
-- 💬 Ask me about: JavaScript, HTML/CSS, and Python (basics)
-- ⚡ Fun: I enjoy reading technical articles and contributing to OSS
+<br>
+
+💻 Turning ideas into side projects  
+and learning from every build.
+
+<br>
+
+🤖 AI demos still make me stop and think:
+
+> "Wait... that's actually possible?"
+
+<br>
+
+🐛 Professional bug creator.  
+Amateur bug fixer.
+
+<br>
+
+🌐 My browser usually has:
+
+- 27 tabs open
+- 2 Stack Overflow pages
+- 1 YouTube tutorial
+- Unlimited optimism
+
 
 ---
 
-### 📊 GitHub Stats
+# 🛠️ My Toolbox
+
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoojaYadav-103&show_icons=true&theme=dark&count_private=true" alt="Pooja's GitHub stats" />
+C • C++ • Python
+<br>
+Java • SQL
 </p>
 
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎨 Frontend</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaYadav-103&layout=compact&theme=dark" alt="Top Languages" />
+React • TypeScript
+<br>
+Tailwind CSS
+<br>
+JavaScript • HTML • CSS
 </p>
+
+</td>
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 AI / ML</h3>
+
+<p align="center">
+TensorFlow
+<br>
+Scikit-learn
+<br>
+LLMs • LangChain
+<br>
+Pandas • NumPy
+<br>
+Gemini API
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
+FastAPI
+<br>
+REST APIs
+<br>
+MongoDB
+<br>
+PostgreSQL
+<br>
+Docker
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
-If you'd like, I can:
+# 🚀 Featured Builds
 
-- Replace the placeholder social links with your real handles (LinkedIn, Twitter, Dev.to, Discord, Peerlist).
-- Add a custom banner image (provide an image URL or I can add one hosted in the repo).
-- Tweak the badges' colors or swap to a light theme.
 
+## 🚀 CareerPilot AI
+
+> An AI-powered career companion helping students with resumes, interviews, and career guidance.
+
+**Tech Stack**
+
+`React` `TypeScript` `FastAPI` `Gemini API`
+
+
+✨ Features:
+
+- Resume Analysis
+- ATS Scoring
+- AI Interview Preparation
+- Career Recommendations
+
+
+---
+
+## 🌎 ImpactSense
+
+> Earthquake alert prediction system built during AI/ML Internship at Infosys.
+
+**Highlights**
+
+- 10,000+ seismic records processed
+- 4-level alert classification
+- 93.08% prediction accuracy
+
+
+**Stack**
+
+`Python` `XGBoost` `Random Forest` `Streamlit` `Plotly`
+
+
+---
+
+## 🍔 Food Classification CNN
+
+> Deep learning based food image classifier using transfer learning.
+
+**Built With**
+
+`TensorFlow` `Keras` `EfficientNetB0`
+
+📈 85.75% validation accuracy
+
+
+---
+
+## 🍽️ What2Eat
+
+> Responsive restaurant web application.
+
+**Built With**
+
+`HTML` `CSS` `JavaScript`
+
+
+---
+
+# 🏆 Milestones
+
+
+🏆 **Amazon ML Summer School 2026**
+
+Selected among ~3,000 participants  
+from 1.34 lakh+ applicants.
+
+
+<br>
+
+🧠 **Problem Solving**
+
+700+ DSA Problems Solved
+
+LeetCode Knight  
+Rating: 1981
+
+
+<br>
+
+⚡ **Competitive Programming**
+
+Codeforces: 1170
+
+
+<br>
+
+💼 **AI/ML Internship @ Infosys**
+
+Built machine learning solutions  
+for real-world prediction problems.
+
+
+---
+
+# 📊 GitHub Dashboard
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PoojaYadav-103&show_icons=true&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaYadav-103&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🌱 Currently Exploring
+
+
+🤖 AI Agents
+
+🏗️ System Design
+
+☁️ Cloud Technologies
+
+⚙️ Scalable Backend Systems
+
+
+---
+
+<p align="center">
+
+✨ Still learning. Still building. Still curious.
+
+<br><br>
+
+Every idea starts with a question.  
+Every project is an attempt to find an answer.
+
+<br><br>
+
+🚀 See you in the next commit.
+
+</p>
